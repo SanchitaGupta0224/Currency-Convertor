@@ -13,6 +13,7 @@ DESCRIPTION
 6. Convert Bitcoins to valid currency amount based on latest price<br />
 ======================================================================================
 <br \>
+<br \>
 MODULE USED
 <br />
 <br \>
@@ -23,7 +24,9 @@ If you wish to know more about it, you can refer to forex-python Documentation h
 <br />
 ======================================================================================
 <br \>
+<br \>
 Following are the screenshot of the output
+<br \>
 <br \>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
